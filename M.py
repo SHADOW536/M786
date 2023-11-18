@@ -91,7 +91,7 @@ logo =                                          """
 
  \033[1;32m Owner   : NOMI MUGHAL
 \033[1;32m  Status :  One week free enjoy
- \033[1;32m Version : 9.1
+ \033[1;32m Version : 11
           
 \033[1;31m================================§================================= """
 def clear():
